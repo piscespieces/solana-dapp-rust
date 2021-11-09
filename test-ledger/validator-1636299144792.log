@@ -1,0 +1,9 @@
+[0m[38;5;8m[[0m2021-11-07T15:32:24.797836000Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m solana-validator 1.8.2 (src:42a2c292; feat:52865992)
+[0m[38;5;8m[[0m2021-11-07T15:32:24.798203000Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m Starting validator with: ArgsOs {
+        inner: [
+            "solana-test-validator",
+        ],
+    }
+[0m[38;5;8m[[0m2021-11-07T15:32:24.799158000Z [0m[33mWARN [0m solana_perf[0m[38;5;8m][0m CUDA is disabled
+[0m[38;5;8m[[0m2021-11-07T15:32:24.803820000Z [0m[32mINFO [0m solana_perf[0m[38;5;8m][0m AVX detected
+[0m[38;5;8m[[0m2021-11-07T15:32:24.817850000Z [0m[1m[31mERROR[0m solana_faucet::faucet[0m[38;5;8m][0m Faucet failed to start: Address already in use (os error 48)
